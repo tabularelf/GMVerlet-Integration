@@ -1,4 +1,4 @@
-# GMVerlet
+# GMVerlet-Integration
 Very experimental. Made mostly for a game project for visuals, never ended up using it.
 
 Verlet Integration for GameMaker Studio 2.3.1+
